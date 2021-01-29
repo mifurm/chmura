@@ -1,0 +1,3 @@
+az login
+az group list -o table
+az group create -n test -l westeurope
